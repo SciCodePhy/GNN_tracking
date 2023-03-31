@@ -1,2 +1,2 @@
-# GNN_tracking
-This is Chenguang Guan's solution to GNN tracking evaluation task (Area 1)
+# A tutorial to Graph Neural Network for edge classfication task
+###
